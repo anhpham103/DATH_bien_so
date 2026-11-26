@@ -1,0 +1,16 @@
+# Core Vision & Deep Learning
+ultralytics>=8.3.0
+opencv-python>=4.8.0
+numpy>=1.23.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# OCR Engine
+paddlepaddle>=2.6.0
+paddleocr>=2.7.0
+
+# Demo Web App & Visualization
+streamlit>=1.30.0
+
+# Testing & Metrics
+pytest>=7.4.0
